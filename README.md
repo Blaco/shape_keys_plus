@@ -1,9 +1,9 @@
-Shape Keys+
+Shape Keys+ (Taco's Fork)
 ===========
-###### Shape Keys Plus v2.0
+###### Shape Keys Plus Custom
 
-A free [Blender](https://www.blender.org/) add-on that replaces the default ***Shape Keys*** panel with ***Shape Keys+,*** a plus-size panel containing extra features for creating, sorting, viewing, and driving shape keys. The Blender Artists thread can be found **[here](https://blenderartists.org/t/shape-keys/680636).**
+A modified version of Michael Glen Montague's free [Blender](https://www.blender.org/) add-on [Shape Keys+]([https://www.blender.org/](https://github.com/MichaelGlenMontague/shape_keys_plus) with a greatly expanded feature set.
+Currently only Blender 2.79 compatible, this repository will be my attempt to update my fork to the modern Blender api.
 
-![0|369x821](./screenshot.png)
-
-For ***Vertex Groups***, [the ***Vertex Codex*** add-on can be purchased on Gumroad.](https://michaelglenmontague.gumroad.com/l/vertex_codex)
+![0|503x812](./screenshot.png)
+![0|686x245](./screenshot2.png)
