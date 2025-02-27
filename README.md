@@ -6,12 +6,5 @@ A modified version of Michael Glen Montague's [Blender](https://www.blender.org/
 
 Currently only Blender 2.79 compatible, the goal of this repository is to eventually update my fork to the modern Blender api. Documentation and download links will come after some progress has been made.
 
-<pre>
-       <img src="./screenshot1.png" alt="Screenshot 1">
-</pre>
-<pre>
-                  <img src="./screenshot3.png" alt="Screenshot 3">
-</pre>
-<pre>
+<pre>                        <img src="./screenshot1.png" alt="Screenshot 1"></pre>
 <img src="./screenshot2.png" alt="Screenshot 2">
-</pre>
